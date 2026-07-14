@@ -1,6 +1,6 @@
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=hadestovvn&label=🌹&color=grey)
+                                             ![](https://komarev.com/ghpvc/?username=hadestovvn&label=🌹&color=red&style=for-the-badge)
 
 </p>
 <p align="center">
